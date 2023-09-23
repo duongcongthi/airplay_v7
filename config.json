@@ -1,5 +1,5 @@
 { 
   "skipIntro": false,
-  "enableAllFeature": true,
+  "enableAllFeature": false,
   "hiddenSpeaker": false
 }
